@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    background-color:darkslategray;
+}
+
+.tablero {
+    display: grid;
+    color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    max-width: 200px;
+    max-height: 200px;
+    justify-content: center;
+    align-content: center;
+}
